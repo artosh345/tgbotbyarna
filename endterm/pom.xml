@@ -12,7 +12,16 @@
         <groupId>org.telegram</groupId>
         <artifactId>telegrambots</artifactId>
         <version>3.6</version>
-    </dependency></dependencies>
+    </dependency>
+
+
+            <dependency>
+                <groupId>org.json</groupId>
+                <artifactId>json</artifactId>
+                <version>20160810</version>
+            </dependency>
+
+    </dependencies>
 
     <properties>
         <maven.compiler.source>15</maven.compiler.source>
